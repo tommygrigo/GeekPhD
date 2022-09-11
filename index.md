@@ -1,5 +1,3 @@
-# Geek your way out of a Ph.D.
-
 This page collects a set of digital tools, websites, and tutorials that I found. I think that some of the tools in this list might be considered essential and others might be simply 'useful to know they exist' for both Ph.D. students and researchers in general. 
 
 I find it very hard to discover tools and websites of this type. I discovered most of those tools by chance wandering on the internet. Some other tools instead, were discovered because of a specific need I had as a Ph.D. student (hence the name of the list). I think that the best way to discover new tools and methods for doing research is by talking to colleagues and friends, but a collection to look at when in need, might be of help. 
