@@ -14,7 +14,7 @@ Given a paper, it is not always simple to discover what research it is based on,
 In this section, there are a few websites that help you search through papers and authors to get an idea of the context of a given paper. Some of the websites look at the citations (e.g. Citation Gecko) others look at different similarity metrics (e.g. Connected Papers).
 
 ### [Connected Papers](https://www.connectedpapers.com/)
-<img src='https://www.connectedpapers.com/share-preview-img.png' width=50%/>
+<img src='https://www.connectedpapers.com/share-preview-img.png'/>
 
 ### [Citation Gecko](https://citationgecko.azurewebsites.net/)
 <img src='https://miro.medium.com/max/1400/1*-duUauzb1Ha3SLQzbFlApQ.png'/>
@@ -132,6 +132,8 @@ Having an online presence might be important in some cases. Here are few tools t
 
 ### [GitHub Pages](https://pages.github.com/)
 If you want to have a personal website where to show your research, you can host it (for free!!) on GitHub. For a basic website you do not even know how to build a website! You just need a [markdown](https://www.markdownguide.org/) file.
+
+This whole list is, in fact, a markdown file hosted on GitHub Pages!
 
 ### [Google Scholar Profiles](https://scholar.google.com/intl/it/scholar/citations.html)
 
