@@ -59,6 +59,18 @@ This section contains a bunch of programs to compile documents in latex. Each pr
 
 ### [TexStudio](https://www.texstudio.org/)
 
+## PDF readers
+
+Once again, it is just good to know that there are alternatives. 
+
+### [Hammer PDF](https://pdf.hammerscholar.net/)
+
+### [Paperly](https://paperly.app/)
+
+### [Sioyek](https://sioyek.info/)
+
+### [Okular](https://okular.kde.org/it/)
+
 ## Version control
 
 This list is for sure very well known to programmers but I think it is important for anyone who has to work with digital files. The problem that is solved by the programs and websites in this list, is the one of keeping track of the different versions of files and projects. This is usually used for software development but it can be used also for latex articles (Overleaf uses it internally) or any type of digital file you can imagine. If you ever found yourself naming your files "artile.tex", "artile_2.tex", "artile_3.tex", "artile_3_1.tex", "artile_3_updated.tex" and you are tired of this method, this list is for you.
@@ -134,6 +146,11 @@ Having an online presence might be important in some cases. Here are few tools t
 If you want to have a personal website where to show your research, you can host it (for free!!) on GitHub. For a basic website you do not even know how to build a website! You just need a [markdown](https://www.markdownguide.org/) file.
 
 This whole list is, in fact, a markdown file hosted on GitHub Pages!
+
+Quick tip: If you want something more advanced but not to complicated you can download for free and modify one of the pre-prepared websites of [HTML5 UP!](https://html5up.net/) and host it for free on GitHub Pages, as shown in [this tutorial](https://www.youtube.com/watch?v=c02lc-bxrGU&t=898s&ab_channel=TechZ).
+
+### [Google Sites](https://sites.google.com/new)
+It is another easy way to obtain a personal website. But you need a domain to publish the website (you can buy one on the website).
 
 ### [Google Scholar Profiles](https://scholar.google.com/intl/it/scholar/citations.html)
 
