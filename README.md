@@ -1,8 +1,8 @@
-This page collects a set of digital tools, websites, and tutorials that I found. I think that some of the tools in this list might be considered essential and others might be simply 'useful to know they exist' for both Ph.D. students and researchers in general. 
+This page collects a set of digital tools, websites, and tutorials that I found. I think that some of the tools in this list might be considered essential and others might be simply useful to know they exist for both Ph.D. students and researchers in general. 
 
 I find it very hard to discover tools and websites of this type. I discovered most of those tools by chance wandering on the internet. Some other tools instead, were discovered because of a specific need I had as a Ph.D. student (hence the name of the list). I think that the best way to discover new tools and methods for doing research is by talking to colleagues and friends, but a collection to look at when in need, might be of help. 
 
-There is no affiliation with any of the links on this page. The sole purpose of this collection is to spread knowledge on tools that might be useful for research but one might not have encountered yet. My hope is that anyone can contribute to this list and allow others to discover new interesting websites, digital tools or even tutorials that might help advance research.
+There is no affiliation with any of the links on this page. The sole purpose of this collection is to spread knowledge on tools that might be useful for research but one might not have encountered yet. My hope is that anyone can contribute to this list and allow others to discover new interesting websites, digital tools, or even tutorials that might help research.
 
 Most of the tools presented here are free or even open source, for ease of accessibility.
 
@@ -73,7 +73,7 @@ Once again, it is just good to know that there are alternatives.
 
 ## Version control
 
-This list is for sure very well known to programmers but I think it is important for anyone who has to work with digital files. The problem that is solved by the programs and websites in this list, is the one of keeping track of the different versions of files and projects. This is usually used for software development but it can be used also for latex articles (Overleaf uses it internally) or any type of digital file you can imagine. If you ever found yourself naming your files "artile.tex", "artile_2.tex", "artile_3.tex", "artile_3_1.tex", "artile_3_updated.tex" and you are tired of this method, this list is for you.
+This list is for sure very well known to programmers but I think it is important for anyone who has to work with digital files. The problem that is solved by the programs and websites in this list, is one of keeping track of the different versions of files and projects. This is usually used for software development but it can be used also for latex articles (Overleaf uses it internally) or any type of digital file you can imagine. If you ever found yourself naming your files "artile.tex", "artile_2.tex", "artile_3.tex", "artile_3_1.tex", "artile_3_updated.tex" and you are tired of this method, this list is for you.
 
 ### [Git](https://git-scm.com/)
 
@@ -83,15 +83,15 @@ This list is for sure very well known to programmers but I think it is important
 
 ## Spell Checkers
 
-If you want to be sure to avoid grammatical errors, there are options for that. Be careful though, they are not perfect, you should check every correction they want to make. 
+If you want to be sure to avoid grammatical errors, there are options for that. Be careful though, they are not perfect, and you should check every correction they want to make. 
 
 ### [Grammarly](https://app.grammarly.com/)
 
 ### [Writefull](https://www.writefull.com/)
 
-## Note taking
+## Note-taking
 
-In recent years, a large number of note-taking apps have surfaced. Each app is different, having its own philosophy, but there might be something for your taste.
+In recent years, a large number of note-taking apps have surfaced. Each app is different, having its philosophy, but there might be something for your taste.
 
 ### [Obsidian](https://obsidian.md/)
 <img src='https://obsidian.md/images/screenshot.png'/>
@@ -109,7 +109,7 @@ Unfortunately, this works only on iPad.
 
 ## Graphs and figures for papers
 
-I find this section the most disappointing of all. If you write papers in LaTex you know that TikZ allows you to produce amazing graphs and drawings with the same style as your paper (because it uses the same rendering engines). However, writing code for TikZ is not trivial at all, and it is for sure time-consuming. Unfortunately, the is no good solution to draw figures in a graphic environment and then export them in TikZ. Every solution I tried works only partially or with some caveats. Also, many programs to produce beautiful figures are (very) expensive (e.g. Adobe Illustrator).  Here you can find the list of the best tools I found.   
+I find this section the most disappointing of all. If you write papers in LaTex you know that TikZ allows you to produce amazing graphs and drawings with the same style as your paper (because it uses the same rendering engines). However, writing code for TikZ is not trivial at all, and it is for sure time-consuming. Unfortunately, the is no good solution to drawing figures in a graphic environment and then exporting them in TikZ. Every solution I tried works only partially or with some caveats. Also, many programs to produce beautiful figures are (very) expensive (e.g. Adobe Illustrator).  Here you can find the list of the best tools I found.   
 
 ### [Inkscape](https://inkscape.org/it/)
 Inkscape is an open-source program for vector graphic design. In my opinion, this is the best solution available at the moment.  
@@ -123,7 +123,7 @@ The only major problem with this solution is that Inkscape is not easy to use.
 Quiver is a lovely website to draw commutative diagrams in Tikz. It is extremely simple to use but it only allows for commutative diagrams. 
 
 ### [mathcha.io](https://www.mathcha.io/)
-It contains a built in drawing feature with basic functionality that can export in tikz.
+It contains a built-in drawing feature with basic functionality that can export in TikZ.
 
 ### [LaTeXDraw](http://latexdraw.sourceforge.net/)
 
@@ -131,7 +131,7 @@ It contains a built in drawing feature with basic functionality that can export 
 
 ## Presentations
 
-Nothing wrong with power point or google slides, it is simply good to know that there are alternatives.
+Nothing wrong with PowerPoint or google slides, it is simply good to know that there are alternatives.
 
 ### [Beamer](https://it.overleaf.com/learn/latex/Beamer)
 It is the LaTex environment dedicated to presentations. It is very fast to produce a presentation if you need to use a lot of formulae from one of your papers written in latex. 
@@ -141,25 +141,25 @@ Manim is a python library developed by a Youtuber (3Blue1Brown) for the sole pur
 
 ### [reveal.js](https://revealjs.com/)
 
-## Self promotion
+## Self-promotion
 
-Having an online presence might be important in some cases. Here are few tools to know.
+Having an online presence might be important in some cases. Here are a few tools to know.
 
 ### [GitHub Pages](https://pages.github.com/)
-If you want to have a personal website where to show your research, you can host it (for free!!) on GitHub. For a basic website you do not even know how to build a website! You just need a [markdown](https://www.markdownguide.org/) file.
+If you want to have a personal website where to show your research, you can host it (for free!!) on GitHub. For a basic website, you do not even know how to build a website! You just need a [markdown](https://www.markdownguide.org/) file.
 
-This whole list is, in fact, a markdown file hosted on GitHub Pages!
+This whole list is a markdown file hosted on GitHub Pages!
 
-Quick tip: If you want something more advanced but not to complicated you can download for free and modify one of the pre-prepared websites of [HTML5 UP!](https://html5up.net/) and host it for free on GitHub Pages, as shown in [this tutorial](https://www.youtube.com/watch?v=c02lc-bxrGU&t=898s&ab_channel=TechZ).
+A quick tip: If you want something more advanced but not too complicated you can download for free and modify one of the pre-prepared websites of [HTML5 UP!](https://html5up.net/) and host it for free on GitHub Pages, as shown in [this tutorial](https://www.youtube.com/watch?v=c02lc-bxrGU&t=898s&ab_channel=TechZ).
 
 ### [Google Sites](https://sites.google.com/new)
 It is another easy way to obtain a personal website. But you need a domain to publish the website (you can buy one on the website).
 
 ### [Google Scholar Profiles](https://scholar.google.com/intl/it/scholar/citations.html)
 
-## Funds, Grants and Fellowships
+## Funds, Grants, and Fellowships
 
-A couple of websites to have a look when preparing for your next position as a researcher.
+A couple of websites to have a look at when preparing for your next position as a researcher.
 
 ### [EURAXESS](https://euraxess.ec.europa.eu/)
 
