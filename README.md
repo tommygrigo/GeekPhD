@@ -111,6 +111,9 @@ Unfortunately, this works only on iPad.
 
 I find this section the most disappointing of all. If you write papers in LaTex you know that TikZ allows you to produce amazing graphs and drawings with the same style as your paper (because it uses the same rendering engines). However, writing code for TikZ is not trivial at all, and it is for sure time-consuming. Unfortunately, the is no good solution to drawing figures in a graphic environment and then exporting them in TikZ. Every solution I tried works only partially or with some caveats. Also, many programs to produce beautiful figures are (very) expensive (e.g. Adobe Illustrator).  Here you can find the list of the best tools I found.   
 
+Examples of incredible figures made in Tikz:
+- [nemo.fournier](https://nemo.kiwi/latex.html#h3_more_advanced_figures)
+
 ### [Inkscape](https://inkscape.org/it/)
 Inkscape is an open-source program for vector graphic design. In my opinion, this is the best solution available at the moment.  
 The two tutorials by [Gilles Castel](https://castel.dev/post/lecture-notes-2/) and [Pingbang Hu](https://www.pbb.wtf/posts/VSCode-LaTeX-Inkscape) show how to use Inkscape to produce figures in PDF with separate text that is then rendered by LaTex. The results, as it is shown in the two tutorials, are amazing. 
@@ -124,6 +127,9 @@ Quiver is a lovely website to draw commutative diagrams in Tikz. It is extremely
 
 ### [mathcha.io](https://www.mathcha.io/)
 It contains a built-in drawing feature with basic functionality that can export in TikZ.
+
+### [tikzplotlib](https://github.com/texworld/tikzplotlib) 
+Apparently, as i discovered on [this very good tutorial](https://nemo.kiwi/latex.html#h3_plots) on tikz, the python library tikzplotlib is capable of exporting tikz code from figures in both [matplotlib](https://matplotlib.org/) and [seaborn](https://seaborn.pydata.org/). 
 
 ### [LaTeXDraw](http://latexdraw.sourceforge.net/)
 
